@@ -1,1 +1,1 @@
-# advent-of-code-2022
+Moved to https://codeberg.org/jyri-matti/advent-of-code-2022
